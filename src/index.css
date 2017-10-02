@@ -1,5 +1,7 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+.form-inline{
+    margin: 5%;
+}
+
+.form-control{
+    margin: 5px 0;
 }
